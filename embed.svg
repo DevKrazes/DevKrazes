@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="120" viewBox="0 0 400 120">
+<rect x="0.5" y="0.5" rx="4.5" height="119" width="399" fill="#0D1017" stroke="#242936" stroke-width="1"/>
+<g transform="translate(25, 35)">
+<svg x="0" y="-13" viewBox="0 0 24 24" width="16" height="16" fill="#FFB454">
+<path d="M13,19V16H21V19H13M8.5,13L2.47,7H6.71L11.67,11.95C12.25,12.54 12.25,13.5 11.67,14.07L6.74,19H2.5L8.5,13Z"/>
+</svg>
+<text x="25" y="0" fill="#E6E1CF" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="18" font-weight="600">KrazesDev</text>
+</g>
+<text x="25" y="65" fill="#5C6773" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13">Experienced Programmer on the Roblox platform</text>
+<g transform="translate(25, 100)">
+<g>
+<svg y="-12" viewBox="0 0 24 24" width="16" height="16" fill="#39BAE6">
+<path d="M10.5,5A8.5,8.5 0 0,0 2,13.5A8.5,8.5 0 0,0 10.5,22A8.5,8.5 0 0,0 19,13.5A8.5,8.5 0 0,0 10.5,5M13.5,13A2.5,2.5 0 0,1 11,10.5A2.5,2.5 0 0,1 13.5,8A2.5,2.5 0 0,1 16,10.5A2.5,2.5 0 0,1 13.5,13M19.5,2A2.5,2.5 0 0,0 17,4.5A2.5,2.5 0 0,0 19.5,7A2.5,2.5 0 0,0 22,4.5A2.5,2.5 0 0,0 19.5,2"/>
+</svg>
+<text x="20" y="-1" fill="#BFBDB6" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12">Lua</text>
+</g>
+<g transform="translate(80, 0)">
+<svg y="-12" viewBox="0 0 24 24" width="16" height="16" fill="#FFB454">
+<path d="M9,10H7V12H9V10M13,10H11V12H13V10M17,10H15V12H17V10M19,3H18V1H16V3H8V1H6V3H5C3.89,3 3,3.9 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5A2,2 0 0,0 19,3M19,19H5V8H19V19Z"/>
+</svg>
+<text x="20" y="-1" fill="#BFBDB6" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12">7 years exp</text>
+</g>
+</g>
+</svg>
